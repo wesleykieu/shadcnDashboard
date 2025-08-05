@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![Uploading image.png…]()
+<img width="1919" height="927" alt="Image" src="https://github.com/user-attachments/assets/d086b695-29d6-4761-b7d6-2ef2658831cd" />
 
 
 ## Getting Started
